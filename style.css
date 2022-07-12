@@ -10,7 +10,7 @@ body{
 
 
 #game{
-    background: black;
+    background: url('assets/herbe.jpg');
     width:600px; 
     height:600px;
 }
